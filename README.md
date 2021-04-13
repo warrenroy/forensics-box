@@ -1,11 +1,20 @@
 # Forensics-Box brought to you by Docker!
 
-Instructions:
+#Instructions:
+1) Install docker, docker-compose, docker CLI
 ```
-1) Git the repo warrenroy/forensics-box 
-    COMMAND: gh repo clone warrenroy/forensics-box
-3) 
-4) 
+```
+2) Git the repo warrenroy/forensics-box 
+```
+COMMAND: gh repo clone warrenroy/forensics-box
+```
+3) Add execute permissions to deploy.sh
+```    
+COMMAND: sudo chmod +x ./deploy.sh
+```
+4) Run deploy shell
+```
+COMMAND: ./deploy.sh
 ```
 
 # Link to article:
