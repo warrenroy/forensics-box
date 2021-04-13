@@ -18,7 +18,11 @@ $ sudo chmod +x ./deploy.sh
 ```
 $ ./deploy.sh
 ```
-5) Navigate to Kibana dashboard: [http://localhost:5601](http://localhost:5601)
+5) After the application starts, navigate to below links in your web browser:
+
+* Elasticsearch: [`http://localhost:9200`](http://localhost:9200)
+* Logstash: [`http://localhost:9600`](http://localhost:9600)
+* Kibana: [`http://localhost:5601`](http://localhost:5601)
 
 ### Official Docker ELK repo:
 https://github.com/docker/awesome-compose/tree/master/elasticsearch-logstash-kibana
