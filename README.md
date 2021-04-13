@@ -3,6 +3,8 @@
 ## Instructions:
 1) Install docker, docker-compose, docker CLI
 ```
+https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe
+gh repo clone docker/compose
 ```
 2) Git the repo warrenroy/forensics-box 
 ```
