@@ -6,15 +6,15 @@
 ```
 2) Git the repo warrenroy/forensics-box 
 ```
-COMMAND: gh repo clone warrenroy/forensics-box
+gh repo clone warrenroy/forensics-box
 ```
 3) Add execute permissions to deploy.sh
 ```    
-COMMAND: sudo chmod +x ./deploy.sh
+sudo chmod +x ./deploy.sh
 ```
 4) Run deploy shell
 ```
-COMMAND: ./deploy.sh
+./deploy.sh
 ```
 
 # Link to article:
