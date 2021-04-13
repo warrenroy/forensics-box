@@ -2,8 +2,8 @@
 
 Instructions:
 ```
-1) Git the repo: warrenroy/forensics-box 
-    gh repo clone warrenroy/forensics-box
+1) Git the repo warrenroy/forensics-box 
+    COMMAND: gh repo clone warrenroy/forensics-box
 3) 
 4) 
 ```
