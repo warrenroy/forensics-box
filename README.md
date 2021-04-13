@@ -1,6 +1,6 @@
-## Forensics-Box brought to you by Docker!
+# Forensics-Box brought to you by Docker!
 
-# Instructions:
+## Instructions:
 1) Install docker, docker-compose, docker CLI
 ```
 ```
@@ -17,10 +17,10 @@ sudo chmod +x ./deploy.sh
 ./deploy.sh
 ```
 
-# Link to article:
+## Link to article:
 https://medium.com/@harisshafiq08/elk-stack-deployment-through-docker-compose-98ce40ff2fb6#:~:text=ELK%20stack%20deployment%20through%20docker-compose%20ELK%20Stack%20or,Kibana%29%20to%20manage%20and%20analyze%20the%20logs%20efficiently.
 
-# Link to github repo:
+### Link to github repo:
 https://github.com/Haris3243/docker-elkstack
 
 First off all! as this example is based on Docker for Windows (Linux Mode), you have to swicth your deamon to linux container mode
