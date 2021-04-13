@@ -30,7 +30,7 @@ https://github.com/docker/awesome-compose/tree/master/elasticsearch-logstash-kib
 https://github.com/deviantony/docker-elk
 https://github.com/sherifabdlnaby/elastdocker
 
-### Future development?:
+### Future development? (network traffic packet capturer:
 https://hub.docker.com/_/packetbeat
 
 ### Link to article:
