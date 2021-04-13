@@ -1,7 +1,7 @@
 # Forensics-Box brought to you by Docker!
 
 ## Instructions:
-<b>1)</b> Install docker, docker-compose, docker CLI
+1) Install docker, docker-compose, docker CLI
 ```
 ```
 2) Git the repo warrenroy/forensics-box 
