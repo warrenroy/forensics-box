@@ -2,7 +2,7 @@
 
 Instructions:
 ```
-1) Git the repo
+1) Git the repo: warrenroy/forensics-box
 2) 
 ```
 
