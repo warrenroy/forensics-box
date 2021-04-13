@@ -1,22 +1,22 @@
 # Forensics-Box brought to you by Docker!
 
 ## Instructions:
-1) Install docker, docker-compose, docker CLI
+1) Install docker, docker-compose, docker CLI (this step will vary depending on if running on Windows, Linux, Mac)
 ```
 https://desktop.docker.com/win/stable/Docker%20Desktop%20Installer.exe
 gh repo clone docker/compose
 ```
 2) Git the repo warrenroy/forensics-box 
 ```
-gh repo clone warrenroy/forensics-box
+$ gh repo clone warrenroy/forensics-box
 ```
 3) Add execute permissions to deploy.sh
 ```    
-sudo chmod +x ./deploy.sh
+$ sudo chmod +x ./deploy.sh
 ```
 4) Run deploy shell
 ```
-./deploy.sh
+$ ./deploy.sh
 ```
 5) Navigate to Kibana dashboard: [http://localhost:5601](http://localhost:5601)
 
