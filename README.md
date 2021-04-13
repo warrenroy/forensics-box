@@ -26,8 +26,9 @@ $ ./deploy.sh
 ### Official Docker ELK repo:
 https://github.com/docker/awesome-compose/tree/master/elasticsearch-logstash-kibana
 
-### Link to Docker ELK repo:
+### Link to other Docker ELK repo:
 https://github.com/deviantony/docker-elk
+https://github.com/sherifabdlnaby/elastdocker
 
 ### Link to article:
 https://medium.com/@harisshafiq08/elk-stack-deployment-through-docker-compose-98ce40ff2fb6#:~:text=ELK%20stack%20deployment%20through%20docker-compose%20ELK%20Stack%20or,Kibana%29%20to%20manage%20and%20analyze%20the%20logs%20efficiently.
