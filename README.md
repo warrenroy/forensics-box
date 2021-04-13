@@ -18,7 +18,7 @@ sudo chmod +x ./deploy.sh
 ```
 5) Navigate to Kibana dashboard
 ```
-http://localhost:5601
+[http://localhost:5601](http://localhost:5601)
 ```
 
 ### Link to article:
